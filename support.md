@@ -1,6 +1,6 @@
 ---
 title: WebSave 支持与反馈
-permalink: /support
+permalink: /WebSave/support/
 ---
 
 # WebSave 支持与反馈

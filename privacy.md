@@ -1,6 +1,6 @@
 ---
 title: WebSave 隐私政策
-permalink: /privacy
+permalink: /WebSave/privacy/
 ---
 
 # WebSave 隐私政策

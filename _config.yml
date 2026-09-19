@@ -1,4 +1,5 @@
 title: WebSave
 description: Save webpages to your own local folder or WebDAV storage.
+baseurl: /WebSave
 theme: jekyll-theme-cayman
 email: saixialv@gmail.com
