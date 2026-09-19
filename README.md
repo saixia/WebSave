@@ -9,6 +9,10 @@ WebSave 是一个本地优先的 Chrome 扩展，用于把当前网页保存为 
 
 > 当前状态：0.1 免费内测准备中。Chrome Web Store 链接将在审核通过后公布。
 
+[下载 WebSave 0.1.0 编译包](downloads/websave-0.1.0.zip)
+
+SHA-256：`bbd0a120e9177fad9c406193af0a1943ea9eef606347f77af691babfd56235c7`
+
 ## 主要功能
 
 - 保存当前网页为 Markdown 或可离线打开的 HTML。
@@ -23,7 +27,17 @@ WebSave 不提供开发者托管的网页归档，不出售数据，不展示广
 
 ## 安装
 
-WebSave 0.1 将先以 Chrome Web Store **Unlisted** 免费内测版本发布。安装链接将在这里更新。
+WebSave 0.1 将先以 Chrome Web Store **Unlisted** 免费内测版本发布。商店审核完成前，内测用户可下载上方编译包并在 Chrome 开发者模式中加载解压后的目录。
+
+公开仓库只发布编译包和产品文档，不发布 WebSave 源代码。
+
+## 产品截图
+
+![WebSave 存储设置](assets/screenshots/01-websave-storage-settings-1280x800.png)
+
+![WebSave 高亮设置](assets/screenshots/02-websave-highlight-settings-1280x800.png)
+
+![WebSave 高亮与备注](assets/screenshots/03-websave-highlight-note-1280x800.png)
 
 ## 文档与联系
 
