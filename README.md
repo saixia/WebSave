@@ -11,7 +11,7 @@ WebSave 是一个本地优先的 Chrome 扩展，用于把当前网页保存为 
 
 [下载 WebSave 0.1.0 编译包](downloads/websave-0.1.0.zip)
 
-SHA-256：`cebbdf81901d1170d268aa92bff9eaded09dd1f19478d38848763331537e9dd2`
+SHA-256：`53dc286804ef41d52764bdf5b683585a6500083e7751f6df3ea48e4cb8606b8a`
 
 ## 主要功能
 
@@ -19,6 +19,7 @@ SHA-256：`cebbdf81901d1170d268aa92bff9eaded09dd1f19478d38848763331537e9dd2`
 - 下载或嵌入网页图片，保留来源链接与可配置 Front Matter。
 - 在网页上创建高亮和备注，并与快照侧边文件同步。
 - 保存到浏览器选择的本地文件夹，或保存到用户自己的 WebDAV/NAS。
+- WebDAV 正式地址强制使用 HTTPS；HTTP 仅用于 localhost 或环回地址的本机测试。
 - 默认可在当前设备记住 WebDAV 密码；密码不通过 Chrome Sync 同步，也不包含在配置导出中。
 
 ## 数据边界

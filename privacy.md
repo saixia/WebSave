@@ -36,7 +36,7 @@ WebSave 对信息的使用与传输遵守 Chrome Web Store User Data Policy，�
 
 ## 安全建议
 
-WebDAV 服务支持时请使用 HTTPS。你负责所选 WebDAV 服务的访问控制、数据保留与备份。WebSave 的设备密码依赖 Chrome 用户配置文件和操作系统账户的访问控制，不声称使用系统钥匙串或额外主密码加密。
+WebSave 要求 WebDAV 地址使用 HTTPS；普通 HTTP 仅允许用于 `localhost`、`127.0.0.1` 或 `::1` 的本机测试。你负责所选 WebDAV 服务的访问控制、数据保留与备份。WebSave 的设备密码依赖 Chrome 用户配置文件和操作系统账户的访问控制，不声称使用系统钥匙串或额外主密码加密。
 
 ## 政策变更与联系
 
