@@ -11,7 +11,7 @@ WebSave 是一个本地优先的 Chrome 扩展，用于把当前网页保存为 
 
 [下载 WebSave 0.1.0 编译包](downloads/websave-0.1.0.zip)
 
-SHA-256：`53dc286804ef41d52764bdf5b683585a6500083e7751f6df3ea48e4cb8606b8a`
+SHA-256：`5c4c177010dc368241dd4efc452f472ea1f7b88ee8b248aa0a3b61facc984452`
 
 ## 主要功能
 
