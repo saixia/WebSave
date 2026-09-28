@@ -1,6 +1,6 @@
 ---
 title: WebSave 隐私政策
-permalink: /WebSave/privacy/
+permalink: /privacy/
 ---
 
 # WebSave 隐私政策
@@ -42,4 +42,4 @@ WebSave 要求 WebDAV 地址使用 HTTPS；普通 HTTP 仅允许用于 `localhos
 
 重要变更会发布在本页面。如有隐私问题，请联系 [saixialv@gmail.com](mailto:saixialv@gmail.com)。
 
-[返回 WebSave 首页](README.md)
+[返回 WebSave 首页](../)

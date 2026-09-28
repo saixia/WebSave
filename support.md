@@ -1,6 +1,6 @@
 ---
 title: WebSave 支持与反馈
-permalink: /WebSave/support/
+permalink: /support/
 ---
 
 # WebSave 支持与反馈
@@ -34,5 +34,5 @@ WebSave 0.1 处于免费内测阶段。遇到问题或希望参与内测，请�
 
 可在 WebSave 设置中重置配置或清除扩展数据；已经保存到本地文件夹或 WebDAV 的文件需在相应存储中删除。
 
-- [返回 WebSave 首页](README.md)
-- [查看隐私政策](privacy.md)
+- [返回 WebSave 首页](../)
+- [查看隐私政策](../privacy/)
