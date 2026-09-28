@@ -11,7 +11,7 @@ WebSave 是一个本地优先的 Chrome 扩展，用于把当前网页保存为 
 
 [下载 WebSave 0.1.0 编译包](downloads/websave-0.1.0.zip)
 
-SHA-256：`5c4c177010dc368241dd4efc452f472ea1f7b88ee8b248aa0a3b61facc984452`
+SHA-256：`bb86dd7e7dbe3c481a6d60d115b78f48824729edf007f1a25e1755d12220f55e`
 
 ## 主要功能
 
@@ -31,6 +31,10 @@ WebSave 不提供开发者托管的网页归档，不出售数据，不展示广
 WebSave 0.1 将先以 Chrome Web Store **Unlisted** 免费内测版本发布。商店审核完成前，内测用户可下载上方编译包并在 Chrome 开发者模式中加载解压后的目录。
 
 公开仓库只发布编译包和产品文档，不发布 WebSave 源代码。
+
+## 许可
+
+WebSave 自有部分采用专有内测许可，仅允许个人、非商业评估使用，不授予源码许可，也不允许再分发。编译包包含的第三方组件仍分别遵循 Apache-2.0 和 MIT 许可。详见 [LICENSE](LICENSE) 与 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
 
 ## 产品截图
 
